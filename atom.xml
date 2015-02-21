@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[System.Out]]></title>
+  <link href="http://artemst.github.io/atom.xml" rel="self"/>
+  <link href="http://artemst.github.io/"/>
+  <updated>2015-02-21T20:11:25+03:00</updated>
+  <id>http://artemst.github.io/</id>
+  <author>
+    <name><![CDATA[Артемий Степанов]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Тестовый пост]]></title>
+    <link href="http://artemst.github.io/tiestovyi-post/"/>
+    <updated>2015-02-21T18:12:07+03:00</updated>
+    <id>http://artemst.github.io/tiestovyi-post</id>
+    <content type="html"><![CDATA[<p><strong><em> Жирный текст </em></strong>
+Просто какой-то текст.</p>
+
+<!--more-->
+
+
+<p>Еще какой-то текст.</p>
+
+<p>Конец.</p>
+]]></content>
+  </entry>
+  
+</feed>
