@@ -4,7 +4,7 @@
   <title><![CDATA[System.Out]]></title>
   <link href="http://artemst.github.io/atom.xml" rel="self"/>
   <link href="http://artemst.github.io/"/>
-  <updated>2015-02-21T20:11:25+03:00</updated>
+  <updated>2015-02-21T20:36:18+03:00</updated>
   <id>http://artemst.github.io/</id>
   <author>
     <name><![CDATA[Артемий Степанов]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Тестовый пост]]></title>
-    <link href="http://artemst.github.io/tiestovyi-post/"/>
+    <link href="http://artemst.github.io/post/tiestovyi-post/"/>
     <updated>2015-02-21T18:12:07+03:00</updated>
-    <id>http://artemst.github.io/tiestovyi-post</id>
+    <id>http://artemst.github.io/post/tiestovyi-post</id>
     <content type="html"><![CDATA[<p><strong><em> Жирный текст </em></strong>
 Просто какой-то текст.</p>
 
@@ -25,6 +25,19 @@
 
 
 <p>Еще какой-то текст.</p>
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+</pre></td><td class='code'><pre><code class='java'><span class='line'><span class="kd">class</span> <span class="nc">HelloWorld</span> <span class="o">{</span>
+</span><span class='line'>    <span class="kd">public</span> <span class="kd">static</span> <span class="kt">void</span> <span class="nf">main</span><span class="o">(</span><span class="n">String</span><span class="o">[]</span> <span class="n">args</span><span class="o">)</span> <span class="o">{</span>
+</span><span class='line'>            <span class="n">System</span><span class="o">.</span><span class="na">out</span><span class="o">.</span><span class="na">println</span><span class="o">(</span><span class="s">&quot;Hello World!&quot;</span><span class="o">);</span>
+</span><span class='line'>    <span class="o">}</span>
+</span><span class='line'><span class="o">}</span>
+</span></code></pre></td></tr></table></div></figure>
+
 
 <p>Конец.</p>
 ]]></content>

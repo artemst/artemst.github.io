@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://artemst.github.io/tiestovyi-post/</loc>
+    <loc>http://artemst.github.io/post/tiestovyi-post/</loc>
     <lastmod>2015-02-21T18:12:07+03:00</lastmod>
   </url>
   <url>
     <loc>http://artemst.github.io/blog/archives/</loc>
-    <lastmod>2015-02-21T20:11:25+03:00</lastmod>
+    <lastmod>2015-02-21T20:36:18+03:00</lastmod>
   </url>
   <url>
     <loc>http://artemst.github.io/</loc>
-    <lastmod>2015-02-21T20:11:25+03:00</lastmod>
+    <lastmod>2015-02-21T20:36:18+03:00</lastmod>
   </url>
 </urlset>
