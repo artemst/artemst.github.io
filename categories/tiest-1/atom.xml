@@ -4,7 +4,7 @@
   <title><![CDATA[Категория: Тест 1 | SYSTEM.OUT]]></title>
   <link href="http://artemst.github.io/categories/tiest-1/atom.xml" rel="self"/>
   <link href="http://artemst.github.io/"/>
-  <updated>2015-03-28T20:25:57+03:00</updated>
+  <updated>2015-03-28T20:45:45+03:00</updated>
   <id>http://artemst.github.io/</id>
   <author>
     <name><![CDATA[Артемий Степанов]]></name>
@@ -26,6 +26,7 @@
 
 <p>Еще какой-то текст.
 <code>java
+@Annotation
 class HelloWorld {
     public static void main(String[] args) {
             System.out.println("Hello World!");
