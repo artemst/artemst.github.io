@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: 
+Disallow:
 
-Sitemap: http://artemst.github.io/sitemap.xml 
+Sitemap: http://artemst.github.io/sitemap.xml

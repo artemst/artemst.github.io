@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[System.Out]]></title>
+  <title><![CDATA[SYSTEM.OUT]]></title>
   <link href="http://artemst.github.io/atom.xml" rel="self"/>
   <link href="http://artemst.github.io/"/>
-  <updated>2015-02-21T23:04:24+03:00</updated>
+  <updated>2015-03-28T20:25:57+03:00</updated>
   <id>http://artemst.github.io/</id>
   <author>
     <name><![CDATA[Артемий Степанов]]></name>
@@ -18,7 +18,7 @@
     <link href="http://artemst.github.io/post/tiestovyi-post/"/>
     <updated>2015-02-21T18:12:07+03:00</updated>
     <id>http://artemst.github.io/post/tiestovyi-post</id>
-    <content type="html"><![CDATA[<p><strong><em> Жирный текст </em></strong><br/>
+    <content type="html"><![CDATA[<p><strong><em> Жирный текст </em></strong>
 Просто какой-то текст для <code>/dev/null</code>.</p>
 
 <!--more-->
