@@ -12,4 +12,4 @@ User-agent: *
 Disallow: /uikit/
 Disallow: /tags/
 Crawl-delay: 5
-Sitemap: https://artemst.githun.io/sitemap-index.xml
+Sitemap: https://artemst.github.io/sitemap-index.xml
