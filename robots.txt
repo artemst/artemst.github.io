@@ -12,4 +12,4 @@ User-agent: *
 Disallow: /uikit/
 Disallow: /tags/
 Crawl-delay: 5
-Sitemap: https://systemout.blog/artemst.github.io/sitemap-index.xml
+Sitemap: https://systemout.blog/_astro/sitemap-index.xml
